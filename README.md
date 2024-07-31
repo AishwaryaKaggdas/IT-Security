@@ -1,1 +1,3 @@
 # IT-Security
+
+In my project on Denial of Service (DoS) attacks, I conducted a comprehensive analysis using the Slowloris tool to understand its impact on Apache web servers. I designed and implemented a virtual lab environment to simulate and evaluate the effectiveness of Slowloris, focusing on its low and slow attack technique. Through this project, I tested the tool against servers both with and without defensive measures, documenting its effects on server performance and availability. My findings highlighted critical aspects of attack success and defence strategies, emphasizing the importance of proactive security measures such as rate limiting and Intrusion Detection Systems (IDS) to enhance server resilience against such attacks.
